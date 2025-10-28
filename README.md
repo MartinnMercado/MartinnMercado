@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Acerca de Mi:
 Soy de Argentina, tengo 23 años y estoy estudiando la carrera de Ingenieria en Sistemas de Información en la Universidad Tecnológica Nacional
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/martinmercado_02) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MartinMercado02) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:martinmercado1502@gmail.com) 
 
 # 💻 Tech Stack:
